@@ -1,4 +1,4 @@
-package section04;
+package section06;
 
 public class Var {
     public static void main(String[] args) {

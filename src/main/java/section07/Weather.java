@@ -1,4 +1,4 @@
-package section05;
+package section07;
 
 public class Weather {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package section02;
+package section04;
 
 public class IntegerManipulations {
     public static void main(String[] args) {

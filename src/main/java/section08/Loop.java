@@ -1,4 +1,4 @@
-package section06;
+package section08;
 
 public class Loop {
     public static void main(String[] args) {

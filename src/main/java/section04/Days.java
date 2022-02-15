@@ -1,4 +1,4 @@
-package section02;
+package section04;
 
 public class Days {
     public static void main(String[] args) {
